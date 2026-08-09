@@ -8,6 +8,7 @@ This Reppository has the purpouse of showing the different activityes made on 20
 - David Assis.
 
 ## Estructura del repositorio
+```txt
 .
 ├── Proyecto
 │   └── README.md
@@ -16,4 +17,4 @@ This Reppository has the purpouse of showing the different activityes made on 20
 │   └── README.md
 ├── LICENSE
 └── README.md
-
+```
