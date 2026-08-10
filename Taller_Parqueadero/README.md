@@ -4,7 +4,12 @@ Este taller tiene la finalidad de hacer una correcta implementación de los FURP
 
 ## Estructura
 ```txt
-Elementos generales mediante txt
+.
+├── Enunciado_CasoParqueadero_FURPS.pdf
+├── Instrumento-HACER-USOS.ods
+├── Parking_system.vpp
+└── README.md
+
 ```
 
 ## Resumen del problema
