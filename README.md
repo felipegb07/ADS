@@ -14,7 +14,11 @@ This Reppository has the purpouse of showing the different activityes made on 20
 │   └── README.md
 ├── Taller_Parqueadero
 │   ├── Enunciado_CasoParqueadero_FURPS.pdf
+│   ├── Instrumento-HACER-USOS.ods
+│   ├── Parking_system.vpp
 │   └── README.md
+├── docuento.txt
 ├── LICENSE
 └── README.md
+
 ```
