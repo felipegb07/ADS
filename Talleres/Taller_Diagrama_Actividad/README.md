@@ -8,7 +8,7 @@ Este taller tiene la finalidad de hacer la creación de los diagramas de activid
 ## Ejercicio diagramas de actividad
 Se plantea un sistema de gestión bancaria en el cual se identifica un caso de uso en el cual se hace la gestion de un cliente tal que debemos hacer una correcta actualización de los registros de los clientes, tal que se requiran diferentes elementos los cuales son.
 ### Acciones a realizar
-1. Punto inicial.
+1. Selección de la opción especifica de gestión de clientes.
 2. Insertar cliente.
 3. Modificar cliente.
 4. Eliminar cliente.
