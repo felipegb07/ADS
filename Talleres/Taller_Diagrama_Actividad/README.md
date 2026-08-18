@@ -1,5 +1,7 @@
 # Taller diagramas de actividad
-Este taller tiene la finalidad de hacer la creación de los diagramas de actividad teniendo en cuenta diferentes elementos los cuales compoenen las estrucutas como lo son;
+
+Este taller tiene la finalidad de hacer la creación de los diagramas de actividad teniendo en cuenta diferentes elementos los cuales compoenen las estrucutas como lo son:
+
 ![Flujos diagramas 1.1](Imagenes_diagramas/flujos.png)
 ![Flujos diagramas 1.2](Imagenes_diagramas/base.png)
 ---
