@@ -6,6 +6,7 @@ Este taller tiene la finalidad de hacer la creación de los diagramas de activid
 ![Flujos diagramas 1.2](Imagenes_diagramas/base.png)
 ---
 ## Estructura repositorio
+~~~txt
 .
 ├── Diagrama de Actividad (Insertar Cliente).vpp
 ├── Diagrama de Actividad (Seleccion).vpp
@@ -15,7 +16,7 @@ Este taller tiene la finalidad de hacer la creación de los diagramas de activid
 │   ├── base.png
 │   └── flujos.png
 └── README.md
-
+~~~
 
 ## Ejercicio diagramas de actividad
 Se plantea un sistema de gestión bancaria en el cual se identifica un caso de uso en el cual se hace la gestion de un cliente tal que debemos hacer una correcta actualización de los registros de los clientes, tal que se requiran diferentes elementos los cuales son.
