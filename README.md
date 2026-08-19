@@ -10,15 +10,25 @@ This Reppository has the purpouse of showing the different activityes made on 20
 ## Estructura del repositorio
 ```txt
 .
-├── Proyecto
-│   └── README.md
-├── Taller_Parqueadero
-│   ├── Enunciado_CasoParqueadero_FURPS.pdf
-│   ├── Instrumento-HACER-USOS.ods
-│   ├── Parking_system.vpp
-│   └── README.md
 ├── docuento.txt
 ├── LICENSE
-└── README.md
+├── Proyecto
+│   └── README.md
+├── README.md
+└── Talleres
+    ├── Taller_Diagrama_Actividad
+    │   ├── Diagrama de Actividad (Insertar Cliente).vpp
+    │   ├── Diagrama de Actividad (Seleccion).vpp
+    │   ├── Diagrama_de_actividad(Modificar_Cliente).vpp
+    │   ├── Enunciado_gestion_clientes.pdf
+    │   ├── Imagenes_diagramas
+    │   │   ├── base.png
+    │   │   └── flujos.png
+    │   └── README.md
+    └── Taller_Parqueadero
+        ├── Enunciado_CasoParqueadero_FURPS.pdf
+        ├── Instrumento-HACER-USOS.ods
+        ├── Parking_system.vpp
+        └── README.md
 
 ```
