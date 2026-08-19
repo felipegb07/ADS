@@ -5,9 +5,10 @@ Este taller tiene la finalidad de hacer la creación de los diagramas de activid
 ![Flujos diagramas 1.1](Imagenes_diagramas/flujos.png)
 ![Flujos diagramas 1.2](Imagenes_diagramas/base.png)
 ---
-## Estructura repositorio
+## Estructura repositorio.
 ~~~txt
 .
+├── Diagrama de Actividad (Eliminar Cliente).vpp
 ├── Diagrama de Actividad (Insertar Cliente).vpp
 ├── Diagrama de Actividad (Seleccion).vpp
 ├── Diagrama_de_actividad(Modificar_Cliente).vpp
